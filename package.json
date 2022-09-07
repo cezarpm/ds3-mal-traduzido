@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "xml2js": "^0.4.23"
+  }
+}
